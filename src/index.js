@@ -4,8 +4,6 @@ import './css/index.css';
 import './css/App.css';
 import App from './components/App';
 import * as serviceWorker from './serviceWorker';
-import 'whatwg-fetch';
-require('es6-promise').polyfill();
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
