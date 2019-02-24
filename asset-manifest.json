@@ -1,13 +1,13 @@
 {
-  "main.css": "/moviedata-react/static/css/main.713e0ec0.chunk.css",
-  "main.js": "/moviedata-react/static/js/main.81104f10.chunk.js",
-  "main.js.map": "/moviedata-react/static/js/main.81104f10.chunk.js.map",
+  "main.css": "/moviedata-react/static/css/main.965456b7.chunk.css",
+  "main.js": "/moviedata-react/static/js/main.475c5a2f.chunk.js",
+  "main.js.map": "/moviedata-react/static/js/main.475c5a2f.chunk.js.map",
   "runtime~main.js": "/moviedata-react/static/js/runtime~main.eae23ca6.js",
   "runtime~main.js.map": "/moviedata-react/static/js/runtime~main.eae23ca6.js.map",
   "static/js/2.c6ecdfb3.chunk.js": "/moviedata-react/static/js/2.c6ecdfb3.chunk.js",
   "static/js/2.c6ecdfb3.chunk.js.map": "/moviedata-react/static/js/2.c6ecdfb3.chunk.js.map",
   "index.html": "/moviedata-react/index.html",
-  "precache-manifest.b0302644c26caff295b8021cf582c441.js": "/moviedata-react/precache-manifest.b0302644c26caff295b8021cf582c441.js",
+  "precache-manifest.59e8ce28da1dba7f539285cd622854b1.js": "/moviedata-react/precache-manifest.59e8ce28da1dba7f539285cd622854b1.js",
   "service-worker.js": "/moviedata-react/service-worker.js",
-  "static/css/main.713e0ec0.chunk.css.map": "/moviedata-react/static/css/main.713e0ec0.chunk.css.map"
+  "static/css/main.965456b7.chunk.css.map": "/moviedata-react/static/css/main.965456b7.chunk.css.map"
 }

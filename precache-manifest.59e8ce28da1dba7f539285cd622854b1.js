@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "81104f10b4b61bde3443",
-    "url": "/moviedata-react/static/css/main.713e0ec0.chunk.css"
+    "revision": "475c5a2f340ac77ce70f",
+    "url": "/moviedata-react/static/css/main.965456b7.chunk.css"
   },
   {
-    "revision": "81104f10b4b61bde3443",
-    "url": "/moviedata-react/static/js/main.81104f10.chunk.js"
+    "revision": "475c5a2f340ac77ce70f",
+    "url": "/moviedata-react/static/js/main.475c5a2f.chunk.js"
   },
   {
     "revision": "eae23ca6e8c938e2303a",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/moviedata-react/static/js/2.c6ecdfb3.chunk.js"
   },
   {
-    "revision": "2c4c8944ff34115fd4b8656719912165",
+    "revision": "4719af98326a031236c3dc0fe85d3fe5",
     "url": "/moviedata-react/index.html"
   }
 ];
