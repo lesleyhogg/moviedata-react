@@ -73,6 +73,7 @@ class App extends Component {
           <h2><strong>Now Playing in {this.state.regionsMap && this.state.regionsMap[this.state.region].name}</strong></h2>
         </div>
         <div id="search">
+          <p>Select a different country:</p>
           <select onChange={e =>
             this.setState({region: e.target.value})
           }>
