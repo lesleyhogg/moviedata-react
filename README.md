@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+See the app in action: https://lesleyhogg.github.io/moviedata-react/
+
 ## Available Scripts
 
 To install the node modules, you can run:
